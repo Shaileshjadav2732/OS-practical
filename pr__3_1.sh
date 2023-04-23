@@ -1,3 +1,6 @@
+#  Write a shell Script to generate mark sheet of a student.
+# Take 3 subjects ,calculate and display total marks,percentage and obtained by the student. 
+
 echo "Enter the mark of first subject (0-100)"
 read a
 echo "Enter the mark of second subject (0-100)"
